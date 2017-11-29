@@ -21,3 +21,7 @@ Click the stack menu in the upper right to return to the login screen.
 ### Modifying Usernames
 
 Simply type over the usernames in the fields and click the Submit Button to change them. Click the Clear Stored Usernames option to clear the cookies for the saved usernames.
+
+## Support
+
+Contact [hello@creativecache.us](mailto:hello@creativecache?subject=Social Tracker Support) for support.
