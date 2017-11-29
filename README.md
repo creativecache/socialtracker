@@ -24,4 +24,4 @@ Simply type over the usernames in the fields and click the Submit Button to chan
 
 ## Support
 
-Contact [hello@creativecache.us](mailto:hello@creativecache?subject=Social Tracker Support) for support.
+Contact [hello@creativecache.us](mailto:hello@creativecache.us?subject=Support) for support.
