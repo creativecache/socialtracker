@@ -4,7 +4,7 @@ Creative Cache's Social Tracker for businesses to track their follower count acr
 
 ## Getting Started
 
-Download a .zip of these files or simply visit the online * [Social Tracker](http://creativecache.us/social-tracker/).
+Download a .zip of these files or simply visit the online [Social Tracker](http://creativecache.us/social-tracker/).
 
 ### Add Social Usernames
 
